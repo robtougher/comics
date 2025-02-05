@@ -1,0 +1,11 @@
+
+Threddy: I've been overwhelmed with email lately.
+Sam: I avoid that with Outlook rules.
+
+Sam: The rules sort incoming email into three folders, based on priority: High, Medium, and Low.
+
+Sam: I read email in 'high' immediately. I read email in 'medium' when I can. I don't ready email in 'low'.
+
+Threddy: How many Outlook rules do you have?
+Sam: Just one: move all email to 'low'.
+

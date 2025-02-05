@@ -1,0 +1,7 @@
+[PANEL 1 - Sam and Threddy chatting in an office. Sam is standing on the stairs.]
+
+Threddy: I set up a Mastodon server and I was unprepared for how difficult it would be.
+
+Sam: Which technology is the most difficult?
+
+Threddy: The tech is the easy part. It's the *moderation* that's difficult. People can't just be cool for like two minutes.

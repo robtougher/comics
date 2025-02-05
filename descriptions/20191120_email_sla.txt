@@ -1,0 +1,12 @@
+
+Panel 1
+(Threddy and Freddy chatting in a conference room)
+
+Freddy: I sent an email 10 minutes ago. Did you see it.
+
+Threddy: I don't recall providing an SLA for reading your emails. Regardless, I never see your emails because they always end up in the trash.
+
+Freddy: Why, because I'm a raccoon?
+
+Threddy: No, because I have an automatic Inbox rule that routes your email directly to the trash.
+

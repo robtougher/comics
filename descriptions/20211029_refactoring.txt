@@ -1,0 +1,9 @@
+
+
+Panel 1
+(Threddy and Freddy chatting in the hallway in the hallway)
+
+Threddy: I've spent the entire sprint refactoring the Blepster code base. It's been so satisfying.
+
+Freddy: Can you get back to working on customer features? Refactoring doesn't pay our salaries.
+

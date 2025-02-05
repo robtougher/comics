@@ -1,0 +1,11 @@
+
+
+[PANEL 1 - Freddy and Threddy chatting in the office.]
+
+Threddy: When you first created Blepster, it was missing so many features. No videos, no gifs, no password changes, no multi-factor auth…
+
+Freddy: Ok, I get it. What's your point.
+
+Threddy: With missing features, how did it still become so popular?
+
+Freddy: People were having fun.

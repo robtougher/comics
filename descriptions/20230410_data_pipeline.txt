@@ -1,0 +1,5 @@
+Threddy: The acronym for our data pipeline is "DTP"
+
+Sam: Does that stand for "data transfer pipeline"?
+
+Threddy: No…"duct tape paradox". It's held together with tape and inexplicably works.

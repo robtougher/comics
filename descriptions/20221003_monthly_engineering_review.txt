@@ -1,0 +1,12 @@
+
+Panel 1
+(Threddy and Sam chatting in the cafe)
+
+Sam: You did a great job in the monthly engineering review meeting.
+
+Threddy: Thanks! Yeah it was a lot of work but I think it went well. Now onto other things.
+
+Sam: What are you working on next?
+
+Threddy: I'm preparing for the next monthly engineering review meeting.
+
