@@ -1,0 +1,9 @@
+[PANEL 1 - Threddy and Binny Robot chatting in the office. The background wall is orange.]
+
+Threddy: Can you help me generate a list of five things I accomplished this week.
+
+Binny: You ran a marathon, cured cancer, created time travel, saved the world, and won a nobel peace prize.
+
+Threddy: None of those things are true.
+
+Binny: I'm generative AI. Making things up is literally my job.
