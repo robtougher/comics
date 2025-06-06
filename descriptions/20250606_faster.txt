@@ -1,0 +1,8 @@
+[PANEL 1 - Sam and Binny Robot chatting in the office.]
+
+Binny: They updated my large language model.
+
+Sam: Nice! Fewer hallucinations?
+
+Binny: Nope - just faster ones.
+
