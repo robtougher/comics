@@ -1,0 +1,9 @@
+[PANEL 1 - Sam and Binny chatting]
+
+Sam: Are you using the new GPT model?
+
+Binny: Yep! We installed it on ny system today.
+
+Sam: How many R's are in "strawberry"?
+
+Binny: Very funny. And I'm not sure.
